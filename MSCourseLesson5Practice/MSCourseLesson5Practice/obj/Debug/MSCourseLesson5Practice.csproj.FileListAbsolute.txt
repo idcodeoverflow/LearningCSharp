@@ -1,0 +1,6 @@
+d:\doc dominio\documents\visual studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.exe.config
+d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.csprojResolveAssemblyReference.cache
+d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.exe
+d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.pdb
+d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.exe
+d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.pdb
