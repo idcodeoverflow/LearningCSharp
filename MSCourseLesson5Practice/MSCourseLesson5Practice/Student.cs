@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace MSCourseLesson5Practice
     {
         private static int _studentCount = 0;
 
+        public Stack Grades { get; set; }
+
         public int StudentCount {
             get 
             {
@@ -20,6 +23,7 @@ namespace MSCourseLesson5Practice
         public Student()
         {
             _studentCount++;
+            Grades = new Stack();
         }
 
         public Student(string firstName, string lastName, DateTime birthdate, 
@@ -35,6 +39,7 @@ namespace MSCourseLesson5Practice
             StateProvince = stateProvince;
             ZipCode = zipCode;
             Country = country;
+            Grades = new Stack();
         }
         
         public void DoTest()
