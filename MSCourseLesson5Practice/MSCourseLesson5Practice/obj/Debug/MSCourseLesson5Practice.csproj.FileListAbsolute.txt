@@ -4,3 +4,9 @@ d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSC
 d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.pdb
 d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.exe
 d:\Doc dominio\Documents\Visual Studio 2015\Projects\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.pdb
+C:\Users\David\Documents\GitHub\LearningCSharp\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.exe.config
+C:\Users\David\Documents\GitHub\LearningCSharp\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.exe
+C:\Users\David\Documents\GitHub\LearningCSharp\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.pdb
+C:\Users\David\Documents\GitHub\LearningCSharp\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.exe
+C:\Users\David\Documents\GitHub\LearningCSharp\MSCourseLesson5Practice\MSCourseLesson5Practice\bin\Debug\MSCourseLesson5Practice.pdb
+C:\Users\David\Documents\GitHub\LearningCSharp\MSCourseLesson5Practice\MSCourseLesson5Practice\obj\Debug\MSCourseLesson5Practice.csprojResolveAssemblyReference.cache
