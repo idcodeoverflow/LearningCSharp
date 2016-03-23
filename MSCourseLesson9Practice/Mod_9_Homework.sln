@@ -1,7 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
+=======
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+>>>>>>> 9169480c973047a59024095e1174c5b016942f72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod_9_Homework", "Mod_9_Homework\Mod_9_Homework.csproj", "{B45528C4-AACD-41BA-BC4A-F109E5EDB024}"
 EndProject
