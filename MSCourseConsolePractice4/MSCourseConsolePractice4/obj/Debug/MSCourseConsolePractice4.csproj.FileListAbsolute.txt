@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2015\Projects\MSCourseConsolePractice4\MSCourseConsolePractice4\bin\Debug\MSCourseConsolePractice4.exe.config
+c:\users\david\documents\visual studio 2015\Projects\MSCourseConsolePractice4\MSCourseConsolePractice4\bin\Debug\MSCourseConsolePractice4.exe
+c:\users\david\documents\visual studio 2015\Projects\MSCourseConsolePractice4\MSCourseConsolePractice4\bin\Debug\MSCourseConsolePractice4.pdb
+c:\users\david\documents\visual studio 2015\Projects\MSCourseConsolePractice4\MSCourseConsolePractice4\obj\Debug\MSCourseConsolePractice4.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\MSCourseConsolePractice4\MSCourseConsolePractice4\obj\Debug\MSCourseConsolePractice4.exe
+c:\users\david\documents\visual studio 2015\Projects\MSCourseConsolePractice4\MSCourseConsolePractice4\obj\Debug\MSCourseConsolePractice4.pdb

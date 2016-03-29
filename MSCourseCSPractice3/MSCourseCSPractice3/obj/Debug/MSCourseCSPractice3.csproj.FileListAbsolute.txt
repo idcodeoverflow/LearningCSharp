@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2015\Projects\MSCourseCSPractice3\MSCourseCSPractice3\bin\Debug\MSCourseCSPractice3.exe.config
+c:\Users\David\Documents\Visual Studio 2015\Projects\MSCourseCSPractice3\MSCourseCSPractice3\obj\Debug\MSCourseCSPractice3.csprojResolveAssemblyReference.cache
+c:\Users\David\Documents\Visual Studio 2015\Projects\MSCourseCSPractice3\MSCourseCSPractice3\bin\Debug\MSCourseCSPractice3.exe
+c:\Users\David\Documents\Visual Studio 2015\Projects\MSCourseCSPractice3\MSCourseCSPractice3\bin\Debug\MSCourseCSPractice3.pdb
+c:\Users\David\Documents\Visual Studio 2015\Projects\MSCourseCSPractice3\MSCourseCSPractice3\obj\Debug\MSCourseCSPractice3.exe
+c:\Users\David\Documents\Visual Studio 2015\Projects\MSCourseCSPractice3\MSCourseCSPractice3\obj\Debug\MSCourseCSPractice3.pdb
