@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2015\Projects\MSCourseTask2Console\MSCourseTask2Console\bin\Debug\MSCourseTask2Console.exe.config
+c:\users\david\documents\visual studio 2015\Projects\MSCourseTask2Console\MSCourseTask2Console\bin\Debug\MSCourseTask2Console.exe
+c:\users\david\documents\visual studio 2015\Projects\MSCourseTask2Console\MSCourseTask2Console\bin\Debug\MSCourseTask2Console.pdb
+c:\users\david\documents\visual studio 2015\Projects\MSCourseTask2Console\MSCourseTask2Console\obj\Debug\MSCourseTask2Console.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\MSCourseTask2Console\MSCourseTask2Console\obj\Debug\MSCourseTask2Console.exe
+c:\users\david\documents\visual studio 2015\Projects\MSCourseTask2Console\MSCourseTask2Console\obj\Debug\MSCourseTask2Console.pdb
