@@ -11,7 +11,7 @@ namespace MSCourseLesson5Practice
     {
         private static int _studentCount = 0;
 
-        public Stack Grades { get; set; }
+        public Stack<Int32> Grades { get; set; }
 
         public int StudentCount {
             get 
@@ -23,7 +23,7 @@ namespace MSCourseLesson5Practice
         public Student()
         {
             _studentCount++;
-            Grades = new Stack();
+            Grades = new Stack<Int32>();
         }
 
         public Student(string firstName, string lastName, DateTime birthdate, 
@@ -39,7 +39,7 @@ namespace MSCourseLesson5Practice
             StateProvince = stateProvince;
             ZipCode = zipCode;
             Country = country;
-            Grades = new Stack();
+            Grades = new Stack<Int32>();
         }
         
         public void DoTest()
