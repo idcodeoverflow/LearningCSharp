@@ -1,8 +1,13 @@
 ﻿
+<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
+=======
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+>>>>>>> 53229d56750cc5dbbcea0e6fa171247955eb3e1a
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderingOperators", "OrderingOperators\OrderingOperators.csproj", "{05350A97-9D66-40BC-90B5-BCD0DCFE1AAB}"
 EndProject
 Global
